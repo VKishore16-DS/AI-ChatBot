@@ -7,3 +7,4 @@ langgraph
 python-dotenv
 ipykernel
 langgraph-checkpoint
+streamlit
