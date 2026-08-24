@@ -4,5 +4,6 @@ langchain-openai
 pydantic
 pydantic_core
 langgraph
-dotenv
+python-dotenv
 ipykernel
+langgraph-checkpoint
